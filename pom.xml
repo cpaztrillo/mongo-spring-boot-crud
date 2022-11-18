@@ -22,7 +22,7 @@
 	<name>crud</name>
 	<description>Quick Crud in Maven with MongoDB</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>1.7</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
